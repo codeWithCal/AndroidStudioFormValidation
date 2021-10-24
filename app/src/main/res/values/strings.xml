@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FormValidationTextInputEditText</string>
+    <string name="email">Email</string>
+    <string name="required">Required</string>
+    <string name="password">Password</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="submit">Submit</string>
+</resources>
